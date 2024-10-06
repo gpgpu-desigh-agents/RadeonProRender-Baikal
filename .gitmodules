@@ -1,0 +1,4 @@
+[submodule "RadeonRays"]
+	path = RadeonRays
+	url = https://github.com/GPGPU-Desigh-Agents/RadeonRays_SDK.git
+	branch = master
